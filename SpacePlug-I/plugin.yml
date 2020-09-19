@@ -1,0 +1,7 @@
+name: SpacePlug-I
+version: 1.0
+main: de.spacenerd.backfish.main.Main
+
+commands:
+   shop:
+      description: Setzte einen neuen Shop.
